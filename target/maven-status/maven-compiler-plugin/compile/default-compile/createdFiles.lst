@@ -1,0 +1,8 @@
+spiceJetObjects\SpicejetHomepage.class
+amazonPageObjects\AmazonProductListingPage.class
+resources\ExtentReporter.class
+amazonPageObjects\AmazonHomePage.class
+actionTemplates\ActionDefination.class
+actionTemplates\ActionSkeletons.class
+amazonPageObjects\ProductDetailPage.class
+spiceJetObjects\SpicejetLoginPage.class
